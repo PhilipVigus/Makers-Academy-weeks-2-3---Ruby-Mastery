@@ -1,0 +1,1 @@
+This project contains files created as part of the week 2 and 3 curriculum for the Makers Academy course. Specifically, this part of the course covers Ruby mastery.
